@@ -8,6 +8,7 @@
 [![Javadocs](https://javadoc.io/badge/org.zaproxy/zap/2.7.0.svg)](https://javadoc.io/doc/org.zaproxy/zap/2.7.0)
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-brightgreen.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zaproxy.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/zaproxy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNaramsim%2Fzaproxy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNaramsim%2Fzaproxy?ref=badge_shield)
 
 The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers[*](#justification). It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
 
@@ -49,6 +50,9 @@ To learn more about ZAP development:
   * [OpenHub](https://www.openhub.net/p/zaproxy)	- FOSS analytics
   * [BountySource](https://www.bountysource.com/teams/zap/issues)	- Vote on ZAP issues (you can also donate money here, but 10% taken out)
   * [Bug Bounty Program](https://bugcrowd.com/owaspzap) - please use this to report any potential vulnerabilities you find in ZAP
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNaramsim%2Fzaproxy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNaramsim%2Fzaproxy?ref=badge_large)
 
 #### Justification
 Justification for the statements made in the tagline at the top;)
